@@ -70,8 +70,8 @@ The objective of this project is to build a web-based application that automatic
 * **Logistic Regression** gave slightly better performance compared to **Decision Tree**.
 * Accuracy scores:
 
-  * Logistic Regression: \~92%
-  * Decision Tree Classifier: \~88%
+  * Logistic Regression: \~95%
+  * Decision Tree Classifier: \~99
 
 ---
 
